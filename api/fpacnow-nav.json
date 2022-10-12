@@ -1,0 +1,167 @@
+{
+  "main": [
+    {
+      "uid": "home-id",
+      "label": "Home",
+      "path": "#",
+      "hasChild": "false",
+      "columnClass": ""
+    },
+    {
+      "uid": "menu-demo-id",
+      "label": "Services",
+      "path": "#",
+      "hasChild": "true",
+      "multiColumn": "false",
+      "columnClass": "fds-nav-global__link--has-sub-menu",
+      "hasHeaders": "false",
+      "children": [
+        {
+          "uid": "111-id",
+          "label": "Acquisitions",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "222-id",
+          "label": "Budget",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "333-id",
+          "label": "Civil Rights",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "444-id",
+          "label": "Customer Services",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "555-id",
+          "label": "Digital Communications",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "676-id",
+          "label": "Economic Analysis",
+          "path": "#",
+          "hasChild": "false"
+        }
+      ]
+    },
+    {
+      "uid": "menu-demo-id",
+      "label": "Your Requests",
+      "path": "#demos",
+      "hasChild": "true",
+      "multiColumn": "false",
+      "columnClass": "fds-nav-global__link--has-sub-menu",
+      "hasHeaders": "false",
+      "children": [
+        {
+          "uid": "1lkjsfdosdi11-id",
+          "label": "Open Requests",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "2lksdfds22-id",
+          "label": "Closed Requests",
+          "path": "#",
+          "hasChild": "false"
+        }
+      ]
+    },
+    {
+      "uid": "menu-demo-id",
+      "label": "Tools",
+      "path": "#demos",
+      "hasChild": "true",
+      "multiColumn": "false",
+      "columnClass": "fds-nav-global__link--has-sub-menu",
+      "hasHeaders": "false",
+      "children": [
+        {
+          "uid": "t111-id",
+          "label": "APT - Accounts Payable",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "t222-id",
+          "label": "ART - Accounts Receivable",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "t333-id",
+          "label": "ELMS - Electronic Lease Management System",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "t444-id",
+          "label": "ECC - Employee Care Center",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "t555-id",
+          "label": "EM - Event Management",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "t667-id",
+          "label": "ERS - Exhibit Reservation System",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "t777-id",
+          "label": "FPAC Support by Function",
+          "path": "#",
+          "hasChild": "false"
+        }
+      ]
+    },
+    {
+      "uid": "menu-demo-id",
+      "label": "Guided Tours",
+      "path": "#",
+      "hasChild": "true",
+      "multiColumn": "false",
+      "columnClass": "fds-nav-global__link--has-sub-menu",
+      "hasHeaders": "false",
+      "children": [
+        {
+          "uid": "19878978911-id",
+          "label": "Tour One",
+          "path": "#",
+          "hasChild": "false"
+        },
+        {
+          "uid": "22-0=0-9892-id",
+          "label": "Tour Two",
+          "path": "#",
+          "hasChild": "false"
+        }
+      ]
+    }
+    
+  ],
+  "side": [
+    {
+      "uid": "menu-demo-id",
+      "label": "Tyler Higley",
+      "path": "#",
+      "hasChild": "false",
+      "multiColumn": "false"
+    }
+  ]
+}
